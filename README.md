@@ -4,9 +4,9 @@ A telegram bot based on a finite state machine
 
 it can play Rock-Paper-Scissors with you
 
-#### those amazing things write in method and intro are not implement yet, please wait for   
+#### those amazing things write in method and intro are not implement yet, please wait for formal edition  
 
-###How to exe?
+##How to exe?
 ```sh
 run ngrok change URL
 
