@@ -7,9 +7,9 @@ it can play Rock-Paper-Scissors with you
 #### those amazing things write in method and intro are not implement yet, please wait for formal edition  
 
 How to exe?
-```sh
-run ngrok change URL
 
+run ngrok change URL and Token(at API_TOKEN and WEBHOOK_URL)
+```sh
 python3 app.py
 ```
 
